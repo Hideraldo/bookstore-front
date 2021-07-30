@@ -1,0 +1,31 @@
+form {
+    text-align: center;
+    width: 70%;
+    margin: 2rem auto 0 auto;
+}
+
+h1 {
+    font-size: 2rem;
+    color: #8b8686;
+    font-weight: 500;
+    margin-bottom: 3rem;
+}
+
+.form {
+    width: 100%;
+}
+
+.buttons {
+    text-align: start;
+}
+
+button {
+    margin-top: 1rem;
+    margin-right: 1rem;
+    background-color: #8b8686;
+    transition: 200ms;
+}
+
+button:hover {
+    background-color: #b6b6b6
+}
