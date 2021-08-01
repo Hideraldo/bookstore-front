@@ -1,0 +1,57 @@
+.content {
+    width: 90%;
+    margin: 1.4rem auto auto auto;
+}
+
+.title {
+    text-align: center;
+    margin-bottom: 3rem;
+}
+
+.title h1 {
+    font-size: 2rem;
+    color: #8b8686;
+    font-weight: 500;
+}
+
+button {
+    margin-bottom: 1rem;
+    background-color: #8b8686;
+    transition: 200ms;
+}
+
+button:hover {
+    background-color: #b6b6b6
+}
+
+.table {
+    width: 100%;
+}
+
+th {
+    font-size: 1.2rem;
+    text-shadow: 2px 1px 9px #ffffffda;
+    font-weight: 500;
+}
+
+.book{
+    color: #a3ffe0;
+    margin-left: 1rem;
+}
+
+.mat-header{
+    width: 5rem;
+}
+
+.edit {
+    color: #fcf379;
+}
+
+.del {
+    color: #f389d3;
+    margin-left: .5rem;
+}
+
+.mat-header{
+    width: 5rem;
+}
